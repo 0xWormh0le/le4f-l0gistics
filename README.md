@@ -1,6 +1,6 @@
 ### Live here
 
-https://le4f-l0gistics.vercel.app
+https://8623tx.csb.app/us/top-news
 
 ### Goal
 The project is to create a SPA to display and browse the top news of the [News API](https://newsapi.org/docs/endpoints/top-headlines) endpoint. The API is free for development purposes but the content coming from the server is limited to 260 characters.
