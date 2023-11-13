@@ -3,7 +3,7 @@
 https://le4f-l0gistics.vercel.app
 
 ### Goal
-The project is to create a SPA to display and browse the top news of the News API endpoint. The API is free for development purposes but the content coming from the server is limited to 260 characters.
+The project is to create a SPA to display and browse the top news of the [News API](https://newsapi.org/docs/endpoints/top-headlines) endpoint. The API is free for development purposes but the content coming from the server is limited to 260 characters.
 
 Below you'll find some wireframes for inspiration, you are not required to implement them 100% like this.
 
